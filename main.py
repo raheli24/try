@@ -41,3 +41,4 @@ if __name__ == '__main__':
             player.add_word(user_input)
 
     print(f"Игра завершена, вы угадали {player.count_used_words()} слов!")
+
